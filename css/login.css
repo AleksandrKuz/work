@@ -8,8 +8,8 @@ font-family: 'Open Sans', sans-serif;
 .form {
   position: absolute;
   margin: 7% 35% 0 ;
-  padding: 60px;
   width: 20%;
+  padding: 60px;
   border: 1px solid #899ba7;
 }
 .title{
